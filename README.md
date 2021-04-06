@@ -1,0 +1,2 @@
+# fake_news_classification
+The Fake News Challenge was organized in early 2017 to encourage development of machine learning-based classification systems that perform “stance detection” -- i.e. identifying whether a particular news headline “agrees” with, “disagrees” with, “discusses,” or is unrelated to a particular news article -- in order to allow journalists and others to more easily find and investigate possible instances of “fake news.” 
